@@ -1,4 +1,3 @@
-# COVID-19
  # Track the UK spread of COVID-19: Mapping in Python with geopandas
 
 The motivation was to learn how to do geospatial data handling and plotting in Python,
